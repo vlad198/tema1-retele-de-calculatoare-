@@ -363,6 +363,7 @@ void copil_comenzi_neprivilegiate()
     exit(2);
 }
 
+// https://stackoverflow.com/questions/10323060/printing-file-permissions-like-ls-l-using-stat2-in-c
 void print_stat_atributes(char *comanda)
 {
     struct stat st;

@@ -68,6 +68,8 @@ ls -l
 
 Exemplu demonstrativ
 
+Pentru a rula programul avem nevoie sa avem instalat compilerul de C si sa fim pe o masina linux intrucat s-au folosit functii specifice acesteia.
+
 Inainte de a rula fisierul "script.sh" asigurativa ca acesta are permisiune de executie. O comanda pentru a garanta acest lucru pentru el este
 
 ```sh
